@@ -1,0 +1,23 @@
+body {
+  background-color: #ada071;
+  color: #35556e;
+  font-family: arial, 'Times New Roman', Times, serif;
+  line-height: 1.6;
+  margin: 3rem auto;
+  max-width: 44rem;
+  padding: 0 1.25rem;
+}
+
+h1 {
+  color: #177936;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  color: #d12828bd;
+  margin-top: 1.75rem;
+}
+
+p {
+  margin: 0.5rem 0 1rem;
+}
